@@ -1,0 +1,14 @@
+
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "description": "Full Stack Authentication System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["authentication", "express", "mongodb"],
+  "author": "Your Name",
+  "license": "ISC"
+}
